@@ -1,0 +1,4 @@
+class AMainHUD : AHUD
+{
+
+}

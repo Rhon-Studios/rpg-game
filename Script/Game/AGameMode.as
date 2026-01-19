@@ -1,0 +1,4 @@
+class AAGameMode : AGameModeBase
+{
+
+}
