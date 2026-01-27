@@ -1,4 +1,4 @@
-class AAGameState : AGameStateBase
+class ARPGGameState : AGameStateBase
 {
 
 }
